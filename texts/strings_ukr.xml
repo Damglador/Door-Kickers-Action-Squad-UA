@@ -28,7 +28,7 @@
     <Text ID="PLAYER_CLASS_OFFDUTYGUY">Чувак не на службі</Text>
     <Text ID="CLASS_ASSAULTER_DESC">Стабільна вогнева міць і точність стрільби на великі відстані; Слідкуйте за віддачею.</Text>
     <Text ID="CLASS_BREACHER_DESC">Невибірковий вогонь на близьку відстань; Може підривати двері.</Text>
-    <Text ID="CLASS_SHIELD_DESC">Захищає себе спереду від вистрілів та вибухів; Вразливий в ближньому бою.</Text>
+    <Text ID="CLASS_SHIELD_DESC">Захищає себе спереду від вистрілів та вибухів; Вразлива в ближньому бою.</Text>
     <Text ID="CLASS_FBI_AGENT_DESC">Сильний ближній бій та стволи; Може виконувати перекид для уникнення шкоди. Слідкуйте за віддачею.</Text>
     <Text ID="CLASS_RECON_DESC">Тихий та швидкий; Підсвічує ворогів та посилює шкоду команди.</Text>
     <Text ID="CLASS_OFFDUTYGUY_DESC">Мішанина з недоїдків, крутого мисливського спорядження та сварливих одностроїв.</Text>
@@ -100,7 +100,7 @@ SSAA</Text>
     <Text ID="NETWORK_PEER_NAME">empty</Text>
     <Text ID="QUIT_GENERIC">Ви впевнені, що хочете вийти?</Text>
     <Text ID="LEVEL_N_FINISHED">Рівень {%1} завершено!</Text>
-    <Text ID="HIGHSCORES">Highscores</Text>
+    <Text ID="HIGHSCORES">Найкращі результати</Text>
     <Text ID="QUIT">Вийти</Text>
     <Text ID="EXIT">Вийти</Text>
     <Text ID="NEXT_MISSION">Наступна місія</Text>
@@ -110,7 +110,7 @@ SSAA</Text>
     <Text ID="BACK">Назад</Text>
     <Text ID="OOPS">Уупс!</Text>
     <Text ID="AVAILABLE">Доступно</Text>
-    <Text ID="NOT_AVAILABLE">N/A</Text>
+    <Text ID="NOT_AVAILABLE">Немає</Text>
     <Text ID="BORDERLESS_WND">У вікні без рамок</Text>
     <Text ID="FULLSCREEN">На весь екран</Text>
     <Text ID="COOP_ONLINE">Кооп / Онлайн</Text>
@@ -183,7 +183,7 @@ SSAA</Text>
     <Text ID="RECON">Розвідник</Text>
     <Text ID="TAP">натиснути</Text>
     <Text ID="HOLD">утримувати</Text>
-    <Text ID="SECRETS_COLLECTED_NN">Секрети зібрано {%1} / {%2}</Text>
+    <Text ID="SECRETS_COLLECTED_NN">Секретів зібрано {%1} / {%2}</Text>
     <Text ID="SECRETS_COLLECTED_VAL">...</Text>
     <Text ID="GEAR">Спорядження</Text>
     <Text ID="SKILLS">Здібності</Text>
@@ -193,36 +193,36 @@ SSAA</Text>
     <Text ID="PRICE">Ціна</Text>
     <Text ID="STARS">Зірки</Text>
     <Text ID="CRITICAL_HIT">Критичний!</Text>
-    <Text ID="CRIPPLED">Crіppled!</Text>
+    <Text ID="CRIPPLED">Скалічений!</Text>
     <Text ID="TOTAL_STARS">Всього зірок</Text>
-    <Text ID="TOTAL_STARS_VAL">empty</Text>
-    <Text ID="PEER_STARS_VAL">empty</Text>
-    <Text ID="SELECTED_PERK_DESC_VAL">empty</Text>
+    <Text ID="TOTAL_STARS_VAL">порожньо</Text>
+    <Text ID="PEER_STARS_VAL">порожньо</Text>
+    <Text ID="SELECTED_PERK_DESC_VAL">порожньо</Text>
     <Text ID="CONFIRM">Підтвердити</Text>
     <Text ID="UNLOCK">Відкрити</Text>
-    <Text ID="UNUSED_POINTS">Очки</Text>
+    <Text ID="UNUSED_POINTS">Бали</Text>
     <Text ID="UNUSED_POINTS_VAL">-1</Text>
     <Text ID="COMING_SOON">Скоро буде</Text>
     <Text ID="COMPLETE_N_TO_UNLOCK_N">Виконайте {%1} місій, щоб розблокувати ({%2} / {%3})</Text>
     <Text ID="MISSIONS_COMPLETED_N">Місій виконано: {%1}/{%2}</Text>
-    <Text ID="CURRENT_MISSION_VAL">empty</Text>
+    <Text ID="CURRENT_MISSION_VAL">порожньо</Text>
     <Text ID="UNLOCK_ITEM">Відкрити предмет</Text>
     <Text ID="NOT_ENOUGH_STARS">Недостатньо зірок!
 Виконайте більше місій, щоб отримати більше зірок</Text>
     <Text ID="CANT_ACTIVATE_HERE">Неможливо активувати тут!</Text>
-    <Text ID="STRATEGIC1">Body Armor</Text>
-    <Text ID="STRATEGIC2">Gear Refіll</Text>
+    <Text ID="STRATEGIC1">Бронежилет</Text>
+    <Text ID="STRATEGIC2">Поповнення спорядження</Text>
     <Text ID="STRATEGIC3">Аптечка</Text>
     <Text ID="STRATEGIC4">Відродити гравця</Text>
     <Text ID="STRATEGIC5">Додаткове життя</Text>
     <Text ID="ACCURACY">Точність</Text>
-    <Text ID="RESISTANCE">Resіstance</Text>
+    <Text ID="RESISTANCE">Стійкість</Text>
     <Text ID="RELOAD_TIME">Час перезаряджання</Text>
     <Text ID="RELOAD">Перезаряджання</Text>
     <Text ID="DAMAGE">Шкода</Text>
     <Text ID="RECOIL">Віддача</Text>
     <Text ID="SPREAD">Розкид</Text>
-    <Text ID="APDAMAGE">Шкода AP</Text>
+    <Text ID="APDAMAGE">Шкода ББ</Text>
     <Text ID="ROF">Швидкість</Text>
     <Text ID="AMMO">Набої</Text>
     <Text ID="ARMOR">Броня</Text>
@@ -237,7 +237,7 @@ SSAA</Text>
     <Text ID="HOSTAGES_SAVED">Заручника врятовано</Text>
     <Text ID="HOSTAGES_SAVED_TOTAL">Заручників врятовано</Text>
     <Text ID="TIME_SPENT">Часу витрачено</Text>
-    <Text ID="TOTAL_SCORE">Очки місії</Text>
+    <Text ID="TOTAL_SCORE">Бали місії</Text>
     <Text ID="SWAT_CASUALTIES">Втрати SWAT</Text>
     <Text ID="GUNPLAY">Gunplay</Text>
     <Text ID="WPN_SMG_MP5A3">Пістолет-кулемет Mp5A3</Text>
@@ -262,18 +262,18 @@ SSAA</Text>
     <Text ID="WPN_SHIELD_ASSAULT">Штурмовий щит</Text>
     <Text ID="WPN_SHIELD_IRONMAN">Щит проти гвинтівок</Text>
     <Text ID="WPN_SMG_UZI">Пістолет-кулемет UZІ</Text>
-    <Text ID="WPN_SMG_MP9SD">MP9 з глушителем</Text>
+    <Text ID="WPN_SMG_MP9SD">MP9 з глушником</Text>
     <Text ID="WPN_SMG_MP7">MP7 PDW</Text>
-    <Text ID="WPN_SMG_MP7SD">MP7 з глушителем</Text>
+    <Text ID="WPN_SMG_MP7SD">MP7 з глушником</Text>
     <Text ID="WPN_SMG_CBJ">Пістолет-кулемет CBJ-65</Text>
-    <Text ID="WPN_SMG_MP5SD">MP5 з глушителем</Text>
+    <Text ID="WPN_SMG_MP5SD">MP5 з глушником</Text>
     <Text ID="GEAR_EMPTY_DESC">Просто пустий слот. Хіба він не виглядає корисним, га?</Text>
     <Text ID="GEAR_EMPTY_BOTTOM">-</Text>
     <Text ID="EQUIP_NOEQUIPMENT">Без спорядження</Text>
     <Text ID="EQUIP_SPEED_POUCHES">Швидкісні підсумки</Text>
     <Text ID="EQUIP_BODY_ARMOR">Бронежилет</Text>
     <Text ID="EQUIP_ADRENALINE_SHOT">Укол адреналіну</Text>
-    <Text ID="EQUIP_EXTRA_GEAR">Extra Gear</Text>
+    <Text ID="EQUIP_EXTRA_GEAR">Додаткове спорядження</Text>
     <Text ID="EQUIP_BETTER_ARMOR">Покращена броня</Text>
     <Text ID="EQUIP_ANTISTAB_ARMOR">Протиударна броня</Text>
     <Text ID="EQUIP_RECON_ARMOR">Рейдерська броня</Text>
@@ -318,7 +318,7 @@ SSAA</Text>
     <Text ID="GEAR_SPY_CAMERA_DESC">- Зазирнути за зачинені двері
 - Отримайте додаткову шкоду по цілям</Text>
     <Text ID="SPECIAL_AIMED_SHOT">Прицільний вистріл</Text>
-    <Text ID="SPECIAL_SLUG_FIRE">Slug Fire</Text>
+    <Text ID="SPECIAL_SLUG_FIRE">Кульовий постріл</Text>
     <Text ID="SPECIAL_SHIELD_FLASH">Сліпучий спалах</Text>
     <Text ID="SPECIAL_SHIELD_BASH">Удар щитом</Text>
     <Text ID="SPECIAL_TWO_MAGAZINES">Зміна набоїв</Text>
@@ -333,17 +333,17 @@ SSAA</Text>
     <Text ID="ULTIMATE_SUBMACHINEGUN">Пістолет-кулемет Штурмовика</Text>
     <Text ID="ULTIMATE_SAW">Пила</Text>
     <Text ID="ULTIMATE_AKIMBO">Пістолети Акімбо</Text>
-    <Text ID="ULTIMATE_MP5K">MP5K SMG</Text>
-    <Text ID="ULTIMATE_MK48MOD1">Легкий кулемет</Text>
+    <Text ID="ULTIMATE_MP5K">Пістолет-кулемет MP5K</Text>
+    <Text ID="ULTIMATE_MK48MOD1">Кулемет</Text>
     <Text ID="ULTIMATE_RECON_MARKSMAN">Снайперська гвинтівка</Text>
-    <Text ID="ULTIMATE_SNIPER_SUPPORT_DESC">Call in Snipers to wipe out 3 enemies visible on the screen.</Text>
-    <Text ID="ULTIMATE_DRAGON_BREATH_DESC">Bring out a Protecta shotgun loaded with incendiary ammo.</Text>
-    <Text ID="ULTIMATE_SUBMACHINEGUN_DESC">Bring your own 9mm Machine- pistol for those special days.</Text>
-    <Text ID="ULTIMATE_SAW_DESC">Cut through any door in the game and the fools standing behind it.</Text>
-    <Text ID="ULTIMATE_AKIMBO_DESC">Two guns, 16 rounds of .40 each, two very cool firing modes.</Text>
-    <Text ID="ULTIMATE_MP5K_DESC">Deploy the Kurz for extra damage at short to medium range.</Text>
-    <Text ID="ULTIMATE_MK48MOD1_DESC">A Mk46 LMG, 50 rounds of ammo, and the ticket to use them.</Text>
-    <Text ID="ULTIMATE_RECON_MARKSMAN_DESC">Allows you to select and snipe a target from a crowd.</Text>
+    <Text ID="ULTIMATE_SNIPER_SUPPORT_DESC">Викликає снайперів, щоб зняти 3 ворогів в зоні видимості.</Text>
+    <Text ID="ULTIMATE_DRAGON_BREATH_DESC">Витягає рушницю Protecta, заряджену запалювальними набоями.</Text>
+    <Text ID="ULTIMATE_SUBMACHINEGUN_DESC">Прихопіть з собою власний пістолет-кулемет калібру 9 мм на ці особливі дні.</Text>
+    <Text ID="ULTIMATE_SAW_DESC">Прорізається через будь-які двері в грі та через дурнів, що стоять за ними.</Text>
+    <Text ID="ULTIMATE_AKIMBO_DESC">Два пістолета, 16 набоїв калібра .40 кожен, два дуже крутих режима стрільби.</Text>
+    <Text ID="ULTIMATE_MP5K_DESC">Розгортання Kurz для додаткової шкоди на короткій та середній дистанції.</Text>
+    <Text ID="ULTIMATE_MK48MOD1_DESC">Кулемет Mk46, 50 набоїв до нього та талон на право їх використання.</Text>
+    <Text ID="ULTIMATE_RECON_MARKSMAN_DESC">Дозволяє вам вибрати та снайпнути ціль з натовпу.</Text>
     <Text ID="MISSION_ACCOMPLISHED">Місія виконана</Text>
     <Text ID="MISSION_FAILED">Місія провалена</Text>
     <Text ID="HOSTAGES_KILLED">Всі заручники мертві!</Text>
@@ -351,12 +351,12 @@ SSAA</Text>
     <Text ID="BOMB_EXPLODED">Бомба вибухнула!</Text>
     <Text ID="MISSION0">Земля банди</Text>
     <Text ID="MISSION1">Радикали</Text>
-    <Text ID="MISSION2">Red Alert</Text>
+    <Text ID="MISSION2">Червона тривога</Text>
     <Text ID="MISSION3">Велике яблуко</Text>
     <Text ID="MISSION4">Територія кортелю</Text>
     <Text ID="MISSION5">Випробування ч.1</Text>
-    <Text ID="MISSION6">King of the Slums</Text>
-    <Text ID="MISSION7">Professionals Abroad</Text>
+    <Text ID="MISSION6">Король нетрів</Text>
+    <Text ID="MISSION7">Закордонні професіонали</Text>
     <Text ID="MISSION8">-</Text>
     <Text ID="MISSION9">-</Text>
     <Text ID="MISSION_TIME">empty</Text>
@@ -437,122 +437,122 @@ Alt+F1 - показати/приховати це вікно</Text>
 Знайдіть її та знешкодьте - час спливає!</Text>
     <Text ID="TUTORIAL_HOSTAGE_TEXT">Врятуйте заручників, щоб заробити стратегічні бали.
 Не вбивайте їх, інакше втратите здоров'я!</Text>
-    <Text ID="TUTORIAL_XPPOINTS_TEAM_REMOVE">Ти не можеш видалити очки зі стовпчиків покращення команди, якщо вони вже віддані.</Text>
-    <Text ID="TUTORIAL_XPPOINTS_TEAM_ADD">Обирай з розумом! Очки покращення, використані на планках команди, не можуть бути видалені після того, як вони були витрачені.</Text>
+    <Text ID="TUTORIAL_XPPOINTS_TEAM_REMOVE">Ти не можеш повернути бали зі стовпчиків покращення команди, якщо вони вже віддані.</Text>
+    <Text ID="TUTORIAL_XPPOINTS_TEAM_ADD">Обирай з розумом! Бали покращення, використані на планках команди, не можуть бути видалені після того, як вони були витрачені.</Text>
     <Text ID="TUTORIAL_INTERFACE_STRATEGIC">Call in Strategic Abilities!</Text>
     <Text ID="TUTORIAL_INTERFACE_MAIN1">Не забувайте також використовувати ваш альтернативний вистріл!
 Забули призначення клавіш? Просто натисніть F1 або Alt+F1.
 Спробуй зараз!</Text>
-    <Text ID="LEVELNAME0">Slow Starters</Text>
-    <Text ID="LEVELNAME1">Knock Knock Knock</Text>
-    <Text ID="LEVELNAME2">Old Embassy</Text>
-    <Text ID="LEVELNAME3">Night Call</Text>
-    <Text ID="LEVELNAME4">Tread Carefully</Text>
-    <Text ID="LEVELNAME5">255th Precinct</Text>
-    <Text ID="LEVELNAME6">High Rise</Text>
-    <Text ID="LEVELNAME7">The Warehouse</Text>
-    <Text ID="LEVELNAME8">Office Day</Text>
-    <Text ID="LEVELNAME9">Flashbang Junction</Text>
-    <Text ID="LEVELNAME10">Cleanup</Text>
-    <Text ID="LEVELNAME11">Meet Big Boss</Text>
-    <Text ID="LEVELNAME12">Meeting Bart</Text>
-    <Text ID="LEVELNAME13">Volatile Motel</Text>
-    <Text ID="LEVELNAME14">Going Under</Text>
-    <Text ID="LEVELNAME15">The Bunker</Text>
-    <Text ID="LEVELNAME16">Midnight Folies</Text>
-    <Text ID="LEVELNAME17">Mountain Hideout</Text>
-    <Text ID="LEVELNAME18">Outpost</Text>
-    <Text ID="LEVELNAME19">Bombs Away</Text>
-    <Text ID="LEVELNAME20">The Block</Text>
-    <Text ID="LEVELNAME21">Caught in a Maze</Text>
-    <Text ID="LEVELNAME22">The Museum</Text>
-    <Text ID="LEVELNAME23">The Yard</Text>
-    <Text ID="LEVELNAME24">Frankie the Fanatic</Text>
-    <Text ID="LEVELNAME25">Crisis at McDonuts</Text>
-    <Text ID="LEVELNAME26">Metro Madness</Text>
+    <Text ID="LEVELNAME0">Повільні стартери</Text>
+    <Text ID="LEVELNAME1">Тук-тук-тук</Text>
+    <Text ID="LEVELNAME2">Старе посольство</Text>
+    <Text ID="LEVELNAME3">Нічний виклик</Text>
+    <Text ID="LEVELNAME4">Ступайте обережно</Text>
+    <Text ID="LEVELNAME5">255-та дільниця</Text>
+    <Text ID="LEVELNAME6">Багатоповерхівка</Text>
+    <Text ID="LEVELNAME7">Склад</Text>
+    <Text ID="LEVELNAME8">Офісний день</Text>
+    <Text ID="LEVELNAME9">Світло-шумове перехрестя</Text>
+    <Text ID="LEVELNAME10">Прибирання</Text>
+    <Text ID="LEVELNAME11">Знайомтесь, великий бос</Text>
+    <Text ID="LEVELNAME12">Зустріч з Бартом</Text>
+    <Text ID="LEVELNAME13">Нестабільний мотель</Text>
+    <Text ID="LEVELNAME14">Банкрутство</Text>
+    <Text ID="LEVELNAME15">Бункер</Text>
+    <Text ID="LEVELNAME16">Опівнічні легенди</Text>
+    <Text ID="LEVELNAME17">Гірська криївка</Text>
+    <Text ID="LEVELNAME18">Аутпост</Text>
+    <Text ID="LEVELNAME19">Бомби геть</Text>
+    <Text ID="LEVELNAME20">Блок</Text>
+    <Text ID="LEVELNAME21">У пастці лабіринту</Text>
+    <Text ID="LEVELNAME22">Музей</Text>
+    <Text ID="LEVELNAME23">Подвір'я</Text>
+    <Text ID="LEVELNAME24">Френкі-фанатик</Text>
+    <Text ID="LEVELNAME25">Кризис в McDonuts</Text>
+    <Text ID="LEVELNAME26">Божевілля в метро</Text>
     <Text ID="LEVELNAME27">Доставка бандеро-смузі</Text>
-    <Text ID="LEVELNAME28">Vertigo</Text>
-    <Text ID="LEVELNAME29">Water Works, Inc.</Text>
-    <Text ID="LEVELNAME30">Cold Exposure</Text>
-    <Text ID="LEVELNAME31">Hipster Beer Factory</Text>
-    <Text ID="LEVELNAME32">Climbing the Shaft</Text>
-    <Text ID="LEVELNAME33">Laboratory Crisis</Text>
-    <Text ID="LEVELNAME34">Raid on Plaza</Text>
-    <Text ID="LEVELNAME35">Doomsday Train</Text>
-    <Text ID="LEVELNAME36">Bank Heist</Text>
-    <Text ID="LEVELNAME37">Queen's Cross</Text>
-    <Text ID="LEVELNAME38">Fibonacci</Text>
-    <Text ID="LEVELNAME39">On the Anvil</Text>
-    <Text ID="LEVELNAME40">Secret Stronghold</Text>
-    <Text ID="LEVELNAME41">Caneville</Text>
-    <Text ID="LEVELNAME42">On Vacation</Text>
-    <Text ID="LEVELNAME43">Whine and Dine</Text>
-    <Text ID="LEVELNAME44">Lights Out</Text>
-    <Text ID="LEVELNAME45">To the Airport</Text>
-    <Text ID="LEVELNAME46">Around the Clock</Text>
-    <Text ID="LEVELNAME47">The Great Batsby</Text>
-    <Text ID="LEVELNAME48">I am the Captain Now</Text>
-    <Text ID="LEVELNAME49">Reservoir Docks</Text>
-    <Text ID="LEVELNAME50">Dusty Neighbours</Text>
-    <Text ID="LEVELNAME51">The Shiny</Text>
-    <Text ID="LEVELNAME52">El Quarantino</Text>
-    <Text ID="LEVELNAME53">Joint Block</Text>
-    <Text ID="LEVELNAME54">Sky Scratchers</Text>
-    <Text ID="LEVELNAME55">NCtv Cribs</Text>
-    <Text ID="LEVELNAME56">Tinytanic</Text>
-    <Text ID="LEVELNAME57">Flying High</Text>
-    <Text ID="LEVELNAME58">Word on the Street</Text>
-    <Text ID="LEVELNAME59">The Crib</Text>
-    <Text ID="LEVELNAME60">Fixer Upper</Text>
-    <Text ID="LEVELNAME61">Snitches Galore</Text>
-    <Text ID="LEVELNAME62">Graveyard Surprise</Text>
-    <Text ID="LEVELNAME63">Long Way Down</Text>
-    <Text ID="LEVELNAME64">Terror from the Terrace</Text>
-    <Text ID="LEVELNAME65">Hard Core</Text>
-    <Text ID="LEVELNAME66">It's Raining Men</Text>
-    <Text ID="LEVELNAME67">Pool Party Crashers</Text>
-    <Text ID="LEVELNAME68">Downstairs Cage</Text>
-    <Text ID="LEVELNAME69">Crates and Bombs</Text>
-    <Text ID="LEVELNAME70">The Express</Text>
-    <Text ID="LEVELNAME71">Consulate Crisis</Text>
-    <Text ID="LEVELNAME72">Stoners Paradise</Text>
-    <Text ID="LEVELNAME73">Peace and Quiet</Text>
-    <Text ID="LEVELNAME74">High as a Kite</Text>
-    <Text ID="LEVELNAME75">Living on the Ledge</Text>
-    <Text ID="LEVELNAME76">Cutting Edge</Text>
-    <Text ID="LEVELNAME77">Earthworm Ben</Text>
-    <Text ID="LEVELNAME78">Switch and Destroy</Text>
-    <Text ID="LEVELNAME79">Home Box Office</Text>
-    <Text ID="LEVELNAME80">Leap of Faith</Text>
-    <Text ID="LEVELNAME81">Under Pressure</Text>
-    <Text ID="LEVELNAME82">Monty Hall</Text>
-    <Text ID="LEVELNAME83">No Excuse</Text>
-    <Text ID="LEVELNAME84">Abandoned Mines</Text>
-    <Text ID="LEVELNAME85">Fare Well</Text>
-    <Text ID="LEVELNAME86">Wrong Way</Text>
-    <Text ID="LEVELNAME87">The Serai Abduction</Text>
-    <Text ID="LEVELNAME88">Get Out</Text>
+    <Text ID="LEVELNAME28">Запаморочення</Text>
+    <Text ID="LEVELNAME29">Водяні роботи, Inc.</Text>
+    <Text ID="LEVELNAME30">Холодна експозиція</Text>
+    <Text ID="LEVELNAME31">Хіпстерська пивоварня</Text>
+    <Text ID="LEVELNAME32">Підйом на шахту</Text>
+    <Text ID="LEVELNAME33">Лабораторна криза</Text>
+    <Text ID="LEVELNAME34">Рейд на площі</Text>
+    <Text ID="LEVELNAME35">Потяг Судного дня</Text>
+    <Text ID="LEVELNAME36">Пограбування банку</Text>
+    <Text ID="LEVELNAME37">Королівський хрест</Text>
+    <Text ID="LEVELNAME38">Фібоначчі</Text>
+    <Text ID="LEVELNAME39">На ковадлі</Text>
+    <Text ID="LEVELNAME40">Таємна фортеця</Text>
+    <Text ID="LEVELNAME41">Каневіль</Text>
+    <Text ID="LEVELNAME42">У відпустці</Text>
+    <Text ID="LEVELNAME43">Скаржитися і їсти</Text>
+    <Text ID="LEVELNAME44">Вимкнути світло</Text>
+    <Text ID="LEVELNAME45">В аеропорт</Text>
+    <Text ID="LEVELNAME46">Навколо годинника</Text>
+    <Text ID="LEVELNAME47">Великий Бетсбі</Text>
+    <Text ID="LEVELNAME48">Тепер я капітан</Text>
+    <Text ID="LEVELNAME49">Причали водосховища</Text>
+    <Text ID="LEVELNAME50">Пилові сусіди</Text>
+    <Text ID="LEVELNAME51">Блискуче</Text>
+    <Text ID="LEVELNAME52">Ель Кварантино</Text>
+    <Text ID="LEVELNAME53">Об'єднаний блок</Text>
+    <Text ID="LEVELNAME54">Хмародряпи</Text>
+    <Text ID="LEVELNAME55">Колиска з кабельним телебаченням</Text>
+    <Text ID="LEVELNAME56">Титанік</Text>
+    <Text ID="LEVELNAME57">Високий політ</Text>
+    <Text ID="LEVELNAME58">Чутки з вулиці</Text>
+    <Text ID="LEVELNAME59">Колиска</Text>
+    <Text ID="LEVELNAME60">Верхній фіксатор</Text>
+    <Text ID="LEVELNAME61">Стукачів повно</Text>
+    <Text ID="LEVELNAME62">Сюрприз на кладовищі</Text>
+    <Text ID="LEVELNAME63">Довгий шлях вниз</Text>
+    <Text ID="LEVELNAME64">Терор з тераси</Text>
+    <Text ID="LEVELNAME65">Жорстке ядро</Text>
+    <Text ID="LEVELNAME66">Дощ з людей</Text>
+    <Text ID="LEVELNAME67">Розбивачі вечірок біля басейну</Text>
+    <Text ID="LEVELNAME68">Внизу по сходах</Text>
+    <Text ID="LEVELNAME69">Ящики та бомби</Text>
+    <Text ID="LEVELNAME70">Експрес</Text>
+    <Text ID="LEVELNAME71">Консульська криза</Text>
+    <Text ID="LEVELNAME72">Наркоманський рай</Text>
+    <Text ID="LEVELNAME73">Мир і спокій</Text>
+    <Text ID="LEVELNAME74">Висота повітряного змія</Text>
+    <Text ID="LEVELNAME75">Життя на краю прірви</Text>
+    <Text ID="LEVELNAME76">Зрізаючи вугли</Text>
+    <Text ID="LEVELNAME77">Дощовий черв'як Бен</Text>
+    <Text ID="LEVELNAME78">Перемкни і знищ</Text>
+    <Text ID="LEVELNAME79">Домашній бокс-офіс</Text>
+    <Text ID="LEVELNAME80">Стрибок віри</Text>
+    <Text ID="LEVELNAME81">Під тиском</Text>
+    <Text ID="LEVELNAME82">Монті Холл</Text>
+    <Text ID="LEVELNAME83">Немає виправдання</Text>
+    <Text ID="LEVELNAME84">Закинуті шахти</Text>
+    <Text ID="LEVELNAME85">Прощання з життям</Text>
+    <Text ID="LEVELNAME86">Не туди</Text>
+    <Text ID="LEVELNAME87">Викрадення Сераї</Text>
+    <Text ID="LEVELNAME88">Забирайся!</Text>
     <Text ID="LEVELNAME89">Out of Time</Text>
-    <Text ID="LEVELNAME90">Airborne Menace</Text>
-    <Text ID="LEVELNAME91">Queen of her Castle</Text>
-    <Text ID="LEVELNAME92">Sunken Stronghold</Text>
-    <Text ID="LEVELNAME93">Burj Al Tarab</Text>
-    <Text ID="LEVELNAME94">Underground Threat</Text>
-    <Text ID="LEVELNAME95">Castle Summit</Text>
-    <Text ID="LEVELNAME96">Coming Soon</Text>
-    <Text ID="LEVELNAME97">Coming Soon</Text>
-    <Text ID="LEVELNAME98">Coming Soon</Text>
-    <Text ID="LEVELNAME99">Coming Soon</Text>
-    <Text ID="LEVELNAME100">Coming Soon</Text>
-    <Text ID="LEVELNAME101">Coming Soon</Text>
-    <Text ID="LEVELNAME102">Coming Soon</Text>
-    <Text ID="LEVELNAME103">Coming Soon</Text>
-    <Text ID="LEVELNAME104">Coming Soon</Text>
-    <Text ID="LEVELNAME105">Coming Soon</Text>
-    <Text ID="LEVELNAME106">Coming Soon</Text>
-    <Text ID="LEVELNAME107">Coming Soon</Text>
+    <Text ID="LEVELNAME90">Повітряна загроза</Text>
+    <Text ID="LEVELNAME91">Королева свого замку</Text>
+    <Text ID="LEVELNAME92">Затонулий форт</Text>
+    <Text ID="LEVELNAME93">Бурдж Аль Тараб</Text>
+    <Text ID="LEVELNAME94">Підземна загроза</Text>
+    <Text ID="LEVELNAME95">Замковий саміт</Text>
+    <Text ID="LEVELNAME96">Скоро буде</Text>
+    <Text ID="LEVELNAME97">Скоро буде</Text>
+    <Text ID="LEVELNAME98">Скоро буде</Text>
+    <Text ID="LEVELNAME99">Скоро буде</Text>
+    <Text ID="LEVELNAME100">Скоро буде</Text>
+    <Text ID="LEVELNAME101">Скоро буде</Text>
+    <Text ID="LEVELNAME102">Скоро буде</Text>
+    <Text ID="LEVELNAME103">Скоро буде</Text>
+    <Text ID="LEVELNAME104">Скоро буде</Text>
+    <Text ID="LEVELNAME105">Скоро буде</Text>
+    <Text ID="LEVELNAME106">Скоро буде</Text>
+    <Text ID="LEVELNAME107">Скоро буде</Text>
     <Text ID="BAR_NO_IMPROVEMENT">Нічого не дає</Text>
-    <Text ID="BAR_S1_LOGISTICS">Increase Strategic Points Gain Rate</Text>
+    <Text ID="BAR_S1_LOGISTICS">Збільшує швидкість отримання стратегічних балів</Text>
     <Text ID="BAR_S2_PHYSICAL">Підвищує здоров'я персонажу</Text>
     <Text ID="BAR_A1_ACCURACY">Підвищує базову точність стрільби</Text>
     <Text ID="BAR_A2_RECOIL">Понизує віддачу</Text>
@@ -564,139 +564,139 @@ Alt+F1 - показати/приховати це вікно</Text>
     <Text ID="BAR_R2_RECON">Підвищує бонусну шкоду по підсвіченим ворогам</Text>
     <Text ID="BAR_F1_HANDGUN">Підвищує базову точність стрільби</Text>
     <Text ID="BAR_F2_MELEE">Підвищує шкоду в ближньому бою</Text>
-    <Text ID="PERK_DOUBLE_GEAR">Double Gear
-Deployable Gear boxes now hold double ordonance.</Text>
-    <Text ID="PERK_EXTRA_SP_SLOTS">Strategic Reserve
-Your Strategic Bar gains 2 extra points.</Text>
-    <Text ID="PERK_NOMEX_SUITS">Nomex Suits
-Receive reduced damage from flame weapons and fire.</Text>
-    <Text ID="PERK_DOUBLE_MEDIKITS">Double Medkits
-Each medkit can now be used twice.</Text>
-    <Text ID="PERK_MELEE_DEFENSE">Melee Defense
-Melee damage from the front reduced by 20%.</Text>
-    <Text ID="PERK_SPEED_IS_LIFE">Speed is Life
-Increase your movement speed by 20%.</Text>
-    <Text ID="PERK_MULE">Mule
-You get 1 extra piece of the gear selected at mission start.</Text>
-    <Text ID="PERK_DIE_HARD">Die Hard
-When close to death your damage intake is lowered.</Text>
-    <Text ID="PERK_QUICK_AIM">Quick Aim
-Your Aimed Shot ability now fires faster.</Text>
-    <Text ID="PERK_CRITICAL_SHOTS">Critical Shots
-Your regular attack has a 5% chance to land 33% extra damage.</Text>
-    <Text ID="PERK_SUREFOOTED">Surefooted
-Your Aimed Shot ability no longer stops you in your tracks.</Text>
-    <Text ID="PERK_BARRICADE_SHOOTING">Barricade Shooting
-You take advantage of cover positions to reduce recoil by 20%.</Text>
-    <Text ID="PERK_STRONG_STANCE">Strong Stance
-By leaning forward you reduce your first shot recoil by 70%.</Text>
-    <Text ID="PERK_C_CLAMP">C-Clamp Grip
-Your basic recoil recovery speed is increased by 35%.</Text>
-    <Text ID="PERK_INTIMIDATING">Intimidating
-Enemies surprised by you lose their cool and deal reduced damage for 2 seconds.</Text>
-    <Text ID="PERK_DOUBLE_BANGERS">Twin-Bangers
-Your Flashbangs now explode twice and deliver their stun effect quicker.</Text>
-    <Text ID="PERK_ASSAULT_JUMP">Assault Jump
-Landing on top of an enemy now deals him 15 damage.</Text>
-    <Text ID="PERK_TWIN_SHOT">Fast Sweep
-After any kill you load your next shot a bit faster.</Text>
-    <Text ID="PERK_9_PELLET">9-pellet Buck
-You switch the buckshot loads and deal increased damage.</Text>
-    <Text ID="PERK_KILLING_SPREE">Killing Spree
-After a kill you get a 25% increase in damage for your next shot.</Text>
-    <Text ID="PERK_EXTENSION_TUBES">Extension Tubes
-Add +1 ammo to all your tube-fed shotguns.</Text>
-    <Text ID="PERK_RIFLED_SLUGS">Rifled Slugs
-Make your Slug Shots fly straighter and more predictable.</Text>
-    <Text ID="PERK_IMPROVED_SLUGS">Improved Slugs
-Switch to heavier slugs that can literally tear through more enemies in one go.</Text>
-    <Text ID="PERK_GORE_DEALER">Gore Dealer
-Non-elite enemies have 50% chance to break off and flee when you gib someone.</Text>
-    <Text ID="PERK_POINTMAN_ARMOR">Pointman Armor
-Increase your armor by half, to help survive those pesky doors to the unknown.</Text>
-    <Text ID="PERK_WEAK_SPOTTER">Weak Spotter
-You learn to tackle armored foes and land some of your buckshot in their vulnerable bits.</Text>
-    <Text ID="PERK_EXTENDED_MAGS">Extended Mags
-Add +2 round capacity extensions to all pistol mags.</Text>
-    <Text ID="PERK_SHIELD_BRACE">Shield-Brace
-Rest your weapon on the shield top and reduce recoil by 40%.</Text>
-    <Text ID="PERK_LADY_JUSTICE">Lady Justice
-You take advantage of surprised enemies and always land critical hits on them.</Text>
-    <Text ID="PERK_FORTIFIED">Fortified
-Your shield takes half damage when you crouch down.</Text>
-    <Text ID="PERK_ARMORED_RABBIT">Armored Rabbit
-Condition up and get a 15% increase in movement speed.</Text>
-    <Text ID="PERK_FIELD_FIXER">Field Fixer
-Requesting Armor via Strategic Points now fixes more of your shield.</Text>
-    <Text ID="PERK_DEVASTATOR">Devastator-ess
-Your SMG now has 20% chance to land a critical hit.</Text>
-    <Text ID="PERK_CADDYSHACK">Caddyshack
-Double your gear load and carrying capacity.</Text>
-    <Text ID="PERK_IRON_MAN">Iron Maid
-The more damage you block with the shield, the scarier it looks to the poor blokes in front of it.</Text>
-    <Text ID="PERK_CRIPPLING_SHOTS">Crippling Shots
-Your shots have a 5% Chance to slow enemies down for a couple of seconds.</Text>
-    <Text ID="PERK_SURGEON_PRECISION">Surgeon Precision
-All your shots automatically crit on highlighted enemies.</Text>
-    <Text ID="PERK_VULTURE">Vulture
-When hitting enemies in the back you have 10% chance to land a critical shot. </Text>
-    <Text ID="PERK_RESCUE_PLAN">Rescue Plan
-Recon tools now also highlight hostages and help you avoid wounding them.</Text>
-    <Text ID="PERK_DURACELLS">Duracells
-Your Highlight now lasts 50% longer.</Text>
-    <Text ID="PERK_DOUBLE_TOOLS">Double Tools
-Double the amount of Recon tools you carry.</Text>
-    <Text ID="PERK_CAUGHT_IN_THE_ACT">Caught in the Act
-You become hidden when in cover position and undetected.</Text>
-    <Text ID="PERK_STEADY_HAND">Steady Hand
-Increase your recoil control when crouched.</Text>
-    <Text ID="PERK_WEAVER_STANCE">Weaver Stance
-Increase your recoil control in all stances.</Text>
+    <Text ID="PERK_DOUBLE_GEAR">Подвійне спорядження
+Розгорнуті коробки спорядження тепер вміщують подвійний боєкомплект.</Text>
+    <Text ID="PERK_EXTRA_SP_SLOTS">Стратегічний резерв
+Ваша стратегічна полоска отримує 2 додаткових заряди.</Text>
+    <Text ID="PERK_NOMEX_SUITS">Костюми Nomex
+Менше шкоди від вогню</Text>
+    <Text ID="PERK_DOUBLE_MEDIKITS">Подвійна аптечка
+Кожну аптечку тепер можна використати двічі.</Text>
+    <Text ID="PERK_MELEE_DEFENSE">Захист у ближньому бою
+Ушкодження від ближнього бою з фронту знижено на 20%.</Text>
+    <Text ID="PERK_SPEED_IS_LIFE">Швидкість - життя
+Збільшеє швидкість пересування на 20%</Text>
+    <Text ID="PERK_MULE">Мул
+Ви отримуєте 1 додаткову одиницю спорядження, обраного на початку місії.</Text>
+    <Text ID="PERK_DIE_HARD">Міцний горішок
+Коли ви близькі до смерті ви отримуєте менше шкоди</Text>
+    <Text ID="PERK_QUICK_AIM">Швидке прицілювання
+Ваша здатність "Прицільний постріл" тепер стріляє швидше.</Text>
+    <Text ID="PERK_CRITICAL_SHOTS">Критичні постріли
+Ваша звичайна атака має 5% шанс нанести 33% додаткової шкоди.</Text>
+    <Text ID="PERK_SUREFOOTED">Впевненість в собі
+Здатність "Прицільний постріл" більше не зупинить вас на шляху.</Text>
+    <Text ID="PERK_BARRICADE_SHOOTING">Барикадна стрілянина
+Ви використовуєте переваги укриття, щоб зменшити віддачу на 20%.</Text>
+    <Text ID="PERK_STRONG_STANCE">Тверда позиція
+Нахилившись вперед, ви зменшуєте віддачу при першому пострілі на 70%.</Text>
+    <Text ID="PERK_C_CLAMP">С-подібна ручка
+Ваша базова швидкість відновлення віддачі збільшена на 35%.</Text>
+    <Text ID="PERK_INTIMIDATING">Залякування
+Вороги, налякані вами, втрачають холоднокровність і наносять зменшену шкоду на 2 секунди.</Text>
+    <Text ID="PERK_DOUBLE_BANGERS">Засліплюча краса
+Ваші світло-шумові гранати тепер вибухають вдвічі швидше, а ефект приголомшення наступає швидше.</Text>
+    <Text ID="PERK_ASSAULT_JUMP">Штурмовий стрибок
+Приземлення на ворога зверху тепер завдає йому 15 шкоди.</Text>
+    <Text ID="PERK_TWIN_SHOT">Швидка зачистка
+Після кожного вбивства ви заряджаєте наступний постріл трохи швидше.</Text>
+    <Text ID="PERK_9_PELLET">9-ти гранульна картеч
+Ви змінюєте заряди картечі і наносите підвищену шкоду.</Text>
+    <Text ID="PERK_KILLING_SPREE">Серія вбивств
+Після вбивства ви отримуєте 25% збільшення шкоди для наступного пострілу.</Text>
+    <Text ID="PERK_EXTENSION_TUBES">Продовжені труби
+Додайте +1 патрон до всіх рушниць з трубчастим живленням.</Text>
+    <Text ID="PERK_RIFLED_SLUGS">Нарізні кулі
+Зробіть свої кульові постріли більш прямими та передбачуваними.</Text>
+    <Text ID="PERK_IMPROVED_SLUGS">Покращені кулі
+Переходьте на важчі кулі, здатні буквально розірвати на шматки більшу кількість ворогів за один раз.</Text>
+    <Text ID="PERK_GORE_DEALER">Різанина
+Неелітні вороги мають 50% шанс зірватися і втекти, коли ви когось зачепите.</Text>
+    <Text ID="PERK_POINTMAN_ARMOR">Бронежилет стрільця
+Збільште свою броню вдвічі, щоб вижити за цими настирливими дверима в невідомість.</Text>
+    <Text ID="PERK_WEAK_SPOTTER">Шукач слабкостей
+Ви вчитеся боротися з броньованими ворогами та влучно влучати в їхні вразливі місця.</Text>
+    <Text ID="PERK_EXTENDED_MAGS">Розширені магазини
+До всіх пістолетних магазинів +2 патрони ємності.</Text>
+    <Text ID="PERK_SHIELD_BRACE">Щит-підпорка
+Покладіть зброю на верхню частину щита і зменшіть віддачу на 40%.</Text>
+    <Text ID="PERK_LADY_JUSTICE">Леді Правосуддя
+Ви користуєтеся несподіванками ворогів і завжди наносите їм критичні удари.</Text>
+    <Text ID="PERK_FORTIFIED">Укріплена
+Ваш щит отримує половину шкоди, коли ви присідаєте.</Text>
+    <Text ID="PERK_ARMORED_RABBIT">Броньований кролик
+Загартовуйтеся та отримайте 15% збільшення швидкості пересування.</Text>
+    <Text ID="PERK_FIELD_FIXER">Польовий ремонт
+Запит броні через стратегічні бали тепер відновлює більше вашого щита.</Text>
+    <Text ID="PERK_DEVASTATOR">Руйнівниця
+Ваш SMG тепер має 20% шанс завдати критичного удару.</Text>
+    <Text ID="PERK_CADDYSHACK">Кадишак
+Подвоює ваше спорядження та вантажопідємність.</Text>
+    <Text ID="PERK_IRON_MAN">Залізна діва
+Чим більше шкоди ви блокуєте щитом, тим страшніше він виглядає для бідолах, що стоять перед ним.</Text>
+    <Text ID="PERK_CRIPPLING_SHOTS">Постріли, що калічать
+Ваші постріли мають 5% шанс уповільнити ворога на кілька секунд.</Text>
+    <Text ID="PERK_SURGEON_PRECISION">Хірургічна точність
+Всі ваші постріли автоматично критують виділених ворогів.</Text>
+    <Text ID="PERK_VULTURE">Стерв'ятник
+При ударі в спину ворога у вас є 10% шанс нанести критичний удар. </Text>
+    <Text ID="PERK_RESCUE_PLAN">План порятунку
+Інструменти розвідки тепер також виділяють заручників і допомагають уникнути їх поранення.</Text>
+    <Text ID="PERK_DURACELLS">Дюрасео
+Ваше підсвічування триває на 50% довще</Text>
+    <Text ID="PERK_DOUBLE_TOOLS">Подвійні інструменти
+Подвоює кількість інструментів розвідки, які ви носите з собою.</Text>
+    <Text ID="PERK_CAUGHT_IN_THE_ACT">Спіймали на гарячому
+У присяді за укриттям ви стаєте прихованими та непоміченими.</Text>
+    <Text ID="PERK_STEADY_HAND">Тверда рука
+Збільшити контроль над віддачею в присяді.</Text>
+    <Text ID="PERK_WEAVER_STANCE">Позиція ткача
+Збільшення контролю над віддачею у всіх позиціях.</Text>
     <Text ID="PERK_HOLLOW_POINTS">Hollow Points
 Switch to expanding bullets and gain 25% damage with all firearms.</Text>
-    <Text ID="PERK_COMBATIVES">Combatives
-Learn to block and receives 40% less melee damage.</Text>
-    <Text ID="PERK_LEG_DAY">Leg Day
-Kick the doors down like the big boys - in 3 hits.</Text>
-    <Text ID="PERK_FEDERAL_JUSTICE">Federal Justice
-You learn to hit the soft spots and deal extra knife damage from the back.</Text>
-    <Text ID="PERK_EVASION">Evasion Drills
-Your roll now avoids 65% of incoming damage.</Text>
-    <Text ID="PERK_BIG_BANGER">Big Banger
-Get your breaches and nades from the Bureau depot - and gain 50% blast range.</Text>
+    <Text ID="PERK_COMBATIVES">Комбатанти
+Ви навчилися блокувати та отримуєте на 40% менше шкоди в ближньому бою.</Text>
+    <Text ID="PERK_LEG_DAY">День ніг
+Вибиваємо двері, як великі хлопці - з 3 ударів.</Text>
+    <Text ID="PERK_FEDERAL_JUSTICE">Федеральне правосуддя
+Ви вчитеся бити по вразливих місцях і наносите додаткової шкоди від ножових ударів зі спини.</Text>
+    <Text ID="PERK_EVASION">Навчання з ухилення
+Ваш перекид тепер уникає 65% шкоди по вам.</Text>
+    <Text ID="PERK_BIG_BANGER">Великий бандерівець
+Отримайте свої пробивні заряди та гранатинади зі складу Бюро - і збільште дальність ураження на 50%.</Text>
     <Text ID="PERK_CHERRY_DARLING">Cherry Darling
-Reduced recoil with the MP5 Kurz Ultimate</Text>
-    <Text ID="PERK_HANDYMAN">Handyman
-Your mag reloads take half a second less.</Text>
-    <Text ID="PERK_INVISIBLE">Invisible
-All enemies react half a second slower when detecting you.</Text>
-    <Text ID="PERK_EXTENDED_MAGS_RECON">Extended Mags
-Increase your mag capacity by 5 shots.</Text>
-    <Text ID="PERK_CLEAR_TO_ENGAGE">Clear to Engage
-Increased damage on highlighted enemies, if there are no hostages present.</Text>
-    <Text ID="PERK_DISORIENTED">Disoriented
-Your Rapid Fire ability now disorients enemies and deals increased knockback.</Text>
+Зменшена віддача в MP5 Kurz Ultimate</Text>
+    <Text ID="PERK_HANDYMAN">Майстер на всі руки
+Перезарядка магазину займає на півсекунди менше.</Text>
+    <Text ID="PERK_INVISIBLE">Невидимий
+Всі вороги реагують на півсекунди повільніше при виявленні вас.</Text>
+    <Text ID="PERK_EXTENDED_MAGS_RECON">Збільшені магазини
+Збільшення ємності магазину на 5 пострілів.</Text>
+    <Text ID="PERK_CLEAR_TO_ENGAGE">Готовність до бою
+Збільшення шкоди по підсвіченим ворогам, якщо немає заручників.</Text>
+    <Text ID="PERK_DISORIENTED">Дезорієнтований
+Ваша здатність "Швидкісний вогонь" тепер дезорієнтує ворогів і далі відкидає.</Text>
     <Text ID="STATUE_DMC">Mike D
-"allmighty god-like entity
-... but with bugs"</Text>
+"всемогутня богоподібна істота
+... але з багами"</Text>
     <Text ID="STATUE_BLIND">Adrian
-"(not really) blind artist"</Text>
+"(не зовсім) сліпий художник"</Text>
     <Text ID="STATUE_ELIAS">Elias, God of Frost
-"summons pixelated minions"</Text>
+"викликає піксельних міньйонів"</Text>
     <Text ID="STATUE_TOMCAT">Dan the Man
-"shouldn't drink and pitch projects"</Text>
+"не варто пити і захищати проекти"</Text>
     <Text ID="STATUE_PINTEA">Pintea
-"works on Door Kickers 2, really"</Text>
+"працює над "Door Kicker 2", правда"</Text>
     <Text ID="STATUE_SICK">Sick
-"dwarf-level skills at world building"</Text>
+"навички гном'ячого рівня в побудові світу"</Text>
     <Text ID="STATUE_GAVIN">Gavin Proudsynth
-"he came from the 80's"</Text>
+"він прийшов з 80-х"</Text>
     <Text ID="STATUE_ANDI">Andy Bee
-"plays GO and trains pixels"</Text>
+"грає в GO і тренує пікселі"</Text>
     <Text ID="LOL">LOL</Text>
-    <Text ID="MOBILITY">Мобільніст</Text>
+    <Text ID="MOBILITY">Мобільність</Text>
     <Text ID="STATUE_GEORGE">George
-"Makes lotsa noise"</Text>
+"Створює багато шуму"</Text>
     <Text ID="MORE">Більше...</Text>
     <Text ID="VOICE_ACTING">Озвучування</Text>
     <Text ID="CREDITS_VOICE">Zachary P. Hill
@@ -714,9 +714,9 @@ Jenn Henry
 Andy Mack
 Josef Gagnier
     </Text>
-    <Text ID="EA_RESET_PROGRESS">Thank you for supporting us during Early Access!
-We recommend starting with a new profile. Using your old profile may lead to profile conflicts and unforeseen issues.
-Reset your profile now?
+    <Text ID="EA_RESET_PROGRESS">Дякуємо за підтримку під час Раннього доступу!
+Рекомендуємо почати з нового профілю. Використання старого профілю може призвести до конфлікту профілів та непередбачуваних проблем.
+Скинути профіль зараз?
     </Text>
     <Text ID="MOD_ENABLED">МОД УВІМКНЕНО</Text>
     <Text ID="MOD_ENABLED_WARNING">Ви можете грати в онлайн кооп ігри тільки з гравцями, у яких встановлений такий самий мод</Text>
@@ -745,65 +745,63 @@ Reset your profile now?
     <Text ID="OFF">ВИМК</Text>
     <Text ID="ENABLED">Вмикнено</Text>
     <Text ID="PLEASE_HANG">Зачекайте секунду...</Text>
-    <Text ID="MOD_CONFLICTING_MSG">Couldn't activate mod because it affects the same files as another activated mod!</Text>
+    <Text ID="MOD_CONFLICTING_MSG">Не вдалося активувати мод, тому що він впливає на ті ж файли, що й інший активований мод!</Text>
     <Text ID="DOWNLOADED_LEVELS">Завантажені рівні</Text>
     <Text ID="CHANGE_DETECTED">ЗАФІКСОВАНІ ЗМІНИ</Text>
     <Text ID="CHANGE_DETECTED_WARNING">Ви можете грати в онлайн кооп тільки з гравцями, що мають такі ж зміни</Text>
-    <Text ID="NO_DOWNLOADED_LEVELS">You have no downloaded content.
-Get more levels from the Steam Workshop by subscribing to the items you want.</Text>
-    <Text ID="NO_MODS_SUBSCRIBED">You have no Workshop items.
-Get levels and mods from the Steam Workshop by subscribing to the items you want.</Text>
+    <Text ID="NO_DOWNLOADED_LEVELS">У вас немає завантаженого контенту.
+Отримайте більше рівнів з Майстерні Steam, підписавшись на бажані предмети.</Text>
+    <Text ID="NO_MODS_SUBSCRIBED">У вас немає предметів з Майстерні.
+Отримуйте рівні та моди з Майстерні Steam, підписавшись на бажані предмети.</Text>
     <Text ID="FLOOR_X">Поверх {%1}</Text>
     <Text ID="FLOOR_X_VALUE">-</Text>
     <Text ID="VINFINITE_MODE">Безкінечна вежа</Text>
-    <Text ID="VINFINITE_MODE_DESC">Randomly generated mayhem</Text>
-    <Text ID="TUTORIAL_VINFINITE_TEXT">This is a Low Supplies Area.
-Only Rescues earn Strategic Points.</Text>
+    <Text ID="VINFINITE_MODE_DESC">Випадково згенерований хаос</Text>
+    <Text ID="TUTORIAL_VINFINITE_TEXT">Це зона з низьким рівнем постачання.
+Стратегічні бали заробляють лише рятувальники.</Text>
     <Text ID="WEEK10_TASK1">Виграти за Розвідника</Text>
     <Text ID="WPN_SWAT_REVOLVER">Револьвер SWAT</Text>
     <Text ID="WPN_G18C_AUTO_PISTOL">Автоматичний пістолет G18C</Text>
     <Text ID="WPN_FBI_REVOLVER">Револьвер FBI</Text>
     <Text ID="WPN_MP7_PDW">MP7 PDW</Text>
     <Text ID="WPN_SIX12_REVO">Дробовик Six-12</Text>
-    <Text ID="WPN_TRAPPER_RIFLE">Trapper
- Rifle</Text>
-    <Text ID="WPN_TRICKED_OUT_AK">Tricked-Out AK</Text>
+    <Text ID="WPN_TRAPPER_RIFLE">Рушниця мисливця</Text>
+    <Text ID="WPN_TRICKED_OUT_AK">Наворочений АК</Text>
     <Text ID="WPN_HOME_DEFENSE_SHOTGUN">Мисливський дробовик</Text>
-    <Text ID="WPN_TRUNK_CARBINE">Trunk
- Carbine</Text>
-    <Text ID="ULTIMATE_M1_GARAND">Pop's Garand</Text>
-    <Text ID="ULTIMATE_M1_GARAND_DESC">Break out the old heirloom with a full clip of vintage AP ammo.</Text>
-    <Text ID="ULTIMATE_RECON_SIX12SD">Suppressed Shotgun</Text>
-    <Text ID="ULTIMATE_RECON_SIX12SD_DESC">Shut down the party with a quiet shottie loaded with buck.</Text>
-    <Text ID="ULTIMATE_HOMEMADE_PIE">Homemade Pie</Text>
-    <Text ID="ULTIMATE_HOMEMADE_PIE_DESC">Wife made this. Restores health for the whole team. Or does it?</Text>
-    <Text ID="GEAR_PISTOL1911_DESC">-7 rds of trusty .45ACP backup
--good to limit collateral damage.</Text>
-    <Text ID="GEAR_TWINKIE">Year-old Twinkie</Text>
-    <Text ID="GEAR_TWINKIE_DESC">- 5 seconds of invulnerability
-- Not affected by team perks.</Text>
-    <Text ID="FITNESS">Fitness</Text>
-    <Text ID="GEAR_BAG">Gear Bag</Text>
-    <Text ID="BAR_O1_ACCURACY">Increase Shooting Accuracy</Text>
-    <Text ID="BAR_O2_MELEE">Decrease Melee Damage Intake</Text>
-    <Text ID="PERK_SOFT_POINTS">Soft Points
-20% Increased damage for all rifles.</Text>
-    <Text ID="PERK_PLUSP_AMMO">+P Ammo
-Extra powder gives your rifle bullets overpenetration. </Text>
-    <Text ID="PERK_OPEN_SEASON">Open Season
-All regular (non-aimed) shots have a 30% chance of generating Critical Hits</Text>
-    <Text ID="PERK_REDHEAD">Once fought off a redhead
-Increased Own Melee Pushback and Stun</Text>
-    <Text ID="PERK_GRIZZLY">Once outran a grizzly
-Movement Speed Increased by 10%</Text>
-    <Text ID="PERK_LOCKED_OUT">Once got locked out in winter
-You can now break doors down in two kicks. </Text>
-    <Text ID="PERK_TWIXIE">Twixie
-Double Use of the Twinkie Bar in One Mission.</Text>
-    <Text ID="PERK_PLATES_UPGRADE">Plates Upgrade
-Armor gets + 1 Protection Level</Text>
-    <Text ID="PERK_GARAND_AP_AMMO">AP Ammo
-Garand gets +1 Armor Penetration</Text>
+    <Text ID="WPN_TRUNK_CARBINE">Карабін з багажника</Text>
+    <Text ID="ULTIMATE_M1_GARAND">Дідів Garand</Text>
+    <Text ID="ULTIMATE_M1_GARAND_DESC">Відкрийте стару реліквію з повною обоймою вінтажних набоїв ББ.</Text>
+    <Text ID="ULTIMATE_RECON_SIX12SD">Дробовик з глушником</Text>
+    <Text ID="ULTIMATE_RECON_SIX12SD_DESC">Прикрийте вечірку тихим пострілом дробовика зарядженим картеччю.</Text>
+    <Text ID="ULTIMATE_HOMEMADE_PIE">Домашній пиріг</Text>
+    <Text ID="ULTIMATE_HOMEMADE_PIE_DESC">Дружина спекла його. Відновлює здоров'я для всієї команди. Правда ж?</Text>
+    <Text ID="GEAR_PISTOL1911_DESC">- 7 надійних .45ACP в запас
+- Добре для обмеження супутніх збитків.</Text>
+    <Text ID="GEAR_TWINKIE">Однорічна Твінки</Text>
+    <Text ID="GEAR_TWINKIE_DESC">- 5 секунд недоторканості
+- Не має впливу від командних покращень.</Text>
+    <Text ID="FITNESS">Фітнес</Text>
+    <Text ID="GEAR_BAG">Сумка для спорядження</Text>
+    <Text ID="BAR_O1_ACCURACY">Підвищує точність стрільби</Text>
+    <Text ID="BAR_O2_MELEE">Понижує шкоду від ближнього бою</Text>
+    <Text ID="PERK_SOFT_POINTS">Вразливі місця
+20% Підвищення шкоди для всіх гвинтівок.</Text>
+    <Text ID="PERK_PLUSP_AMMO">+П Набої
+Додатковий порох надає кулям вашої гвинтівки надпроникнення. </Text>
+    <Text ID="PERK_OPEN_SEASON">Відкритий сезон
+Всі звичайні (не прицільні) постріли мають 30% шанс завдати критичне попадання</Text>
+    <Text ID="PERK_REDHEAD">Одного разу відбився від рудого
+Збільшення власного відштовхування в ближньому бою та приголомшення</Text>
+    <Text ID="PERK_GRIZZLY">Одного разу обігнав грізлі
+Швидкітсть пересування збільшена на 10%</Text>
+    <Text ID="PERK_LOCKED_OUT">Одного разу опинився замкненим взимку
+Тепер двері можна виламувати двома ударами. </Text>
+    <Text ID="PERK_TWIXIE">Майже Twix
+Подвійне використання батончика "Твінки" в одній місії.</Text>
+    <Text ID="PERK_PLATES_UPGRADE">Покращення пластин
+Броня отримує + 1 рівень захисту</Text>
+    <Text ID="PERK_GARAND_AP_AMMO">Бронебійні набої
+Garand отримує +1 пробивання броні</Text>
     <Text ID="INVITE_FRIEND">Запросити друзів</Text>
     <Text ID="JOIN_GAME">Приєднатися до гри</Text>
     <Text ID="LOBBIES_LIST">Активні лоббі</Text>
@@ -815,25 +813,25 @@ Garand gets +1 Armor Penetration</Text>
     <Text ID="PRESS_FIRE_TO_JOIN_NX">Натисніть L+R, щоб доєднатися!</Text>
     <Text ID="CONSOLE_PRESS_A">Натисніть A, щоб продовжити</Text>
     <Text ID="CONSOLE_PRESS_CONTINUE">Натисніть {%1}, щоб продовжити</Text>
-    <Text ID="CONSOLE_TUTORIAL_INTERFACE_MAIN1">Remember to also use your Alt-Fire attack!
-Forgot your controller setup? Just open the options menu and select Controller Layout.
-Try it now!</Text>
+    <Text ID="CONSOLE_TUTORIAL_INTERFACE_MAIN1">Пам'ятайте також використовувати ваш альтернативний вистріл!
+Забули призначення клавіш? Просто відкрийте вікно налаштувань та виберіть розкладку контролера.
+Спробуйте зараз!</Text>
     <Text ID="NX_NETWORK_CONNECTING">З'єднання з мережою</Text>
     <Text ID="NX_NETWORK_CONNECTING_TTL">Запуск мережі</Text>
     <Text ID="NX_COOP_LOCAL">Локальний кооп</Text>
     <Text ID="NX_COOP_ONLINE">Онлайн кооп</Text>
     <Text ID="NX_HOST_FRIENDS">Створити для друзів</Text>
     <Text ID="NX_JOIN_FRIENDS">Приєднатися до друзів</Text>
-    <Text ID="NX_NEEDS_ACCOUNT">An account with Nintendo Switch Online is required to play online and view leaderboards.</Text>
-    <Text ID="NX_NETWORK_ERROR">There was an error communicating with online services.</Text>
+    <Text ID="NX_NEEDS_ACCOUNT">Для гри в онлайні та перегляду таблиць лідерів потрібен обліковий запис у Nintendo Switch Online.</Text>
+    <Text ID="NX_NETWORK_ERROR">Виникла помилка при з'єднанні з онлайн-сервісами.</Text>
     <Text ID="XB1_CHANGE_PROFILE">Змінити профіль</Text>
     <Text ID="XB1_USERNAME">Нікнейм</Text>
     <Text ID="PS4_PRESS_X">Натисніть X, щоб продовжити</Text>
-    <Text ID="NX_JUMP_LEADERBOARDS">Jump = Leaderboards</Text>
-    <Text ID="XB1_SIGN_OUT_MESSAGE">A sign-in change has occured. Please sign back in or exit to the title screen.</Text>
-    <Text ID="XB1_SIGN_IN">Sign-in</Text>
-    <Text ID="CONSOLE_PORTING">Український переклад</Text>
-    <Text ID="CREDITS_CONSOLE">Sickhead Games буба</Text>
+    <Text ID="NX_JUMP_LEADERBOARDS">Стрибки = Таблиці лідерів</Text>
+    <Text ID="XB1_SIGN_OUT_MESSAGE">Відбулася зміна входу в систему. Будь ласка, увійдіть знову або вийдіть на головний екран.</Text>
+    <Text ID="XB1_SIGN_IN">Увійти</Text>
+    <Text ID="CONSOLE_PORTING">Порт на консолі</Text>
+    <Text ID="CREDITS_CONSOLE">Sickhead Games</Text>
     <Text ID="MOBILE_PORTING">Порт на телефони</Text>
     <Text ID="CREDITS_MOBILE">...</Text>
     <Text ID="QA">Переклад українською</Text>
