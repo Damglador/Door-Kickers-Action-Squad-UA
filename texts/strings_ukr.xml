@@ -189,7 +189,7 @@ SSAA</Text>
     <Text ID="SKILLS">Здібності</Text>
     <Text ID="ULTIMATE">Ультимативне</Text>
     <Text ID="READY">Готовий!</Text>
-    <Text ID="NONE">None</Text>
+    <Text ID="NONE">Нічого</Text>
     <Text ID="PRICE">Ціна</Text>
     <Text ID="STARS">Зірки</Text>
     <Text ID="CRITICAL_HIT">Критичний!</Text>
@@ -218,7 +218,7 @@ SSAA</Text>
     <Text ID="ACCURACY">Точність</Text>
     <Text ID="RESISTANCE">Стійкість</Text>
     <Text ID="RELOAD_TIME">Час перезаряджання</Text>
-    <Text ID="RELOAD">Перезаряджання</Text>
+    <Text ID="RELOAD">Перезарядка</Text>
     <Text ID="DAMAGE">Шкода</Text>
     <Text ID="RECOIL">Віддача</Text>
     <Text ID="SPREAD">Розкид</Text>
