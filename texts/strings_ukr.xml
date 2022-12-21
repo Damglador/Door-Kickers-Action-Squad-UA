@@ -21,7 +21,7 @@
     <Text ID="TEMP14">empty</Text>
     <Text ID="TEMP15">empty</Text>
     <Text ID="PLAYER_CLASS_ASSAULTER">Штурмовик</Text>
-    <Text ID="PLAYER_CLASS_BREACHER">Breacher</Text>
+    <Text ID="PLAYER_CLASS_BREACHER">Пробивник</Text>
     <Text ID="PLAYER_CLASS_SHIELD">Щитовик</Text>
     <Text ID="PLAYER_CLASS_FBI_AGENT">Агент Фергі</Text>
     <Text ID="PLAYER_CLASS_RECON">Розвідник</Text>
@@ -298,7 +298,7 @@ SSAA</Text>
     <Text ID="GEAR_GRENADE">Осколкова граната</Text>
     <Text ID="GEAR_FLASHBANG">Світло-шумова граната</Text>
     <Text ID="GEAR_BREACHING_CHARGE">Пробивний заряд</Text>
-    <Text ID="GEAR_SPEED_LOADER">Speed Loader</Text>
+    <Text ID="GEAR_SPEED_LOADER">Швидкий завантажувач</Text>
     <Text ID="GEAR_SMOKE_GRENADE">Димова граната</Text>
     <Text ID="GEAR_MAG_READY">Запасний магазин</Text>
     <Text ID="GEAR_CAM_BALL">Кулькова камера</Text>
@@ -735,7 +735,7 @@ Josef Gagnier
     <Text ID="WEEK2_TASK2">Без снайперок</Text>
     <Text ID="WEEK4_TASK1">Без зцілення</Text>
     <Text ID="WEEK4_TASK2">Виграти за Щитовика</Text>
-    <Text ID="WEEK5_TASK1">Виграти за Breacher</Text>
+    <Text ID="WEEK5_TASK1">Виграти за Пробивника</Text>
     <Text ID="WEEK6_TASK1">Виграти за Фергі</Text>
     <Text ID="WEEK7_TASK1">Виграти за Штурмовика</Text>
     <Text ID="WORKSHOP">Майстерня</Text>
