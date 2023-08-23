@@ -1,6 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LocaList>
   <Loca LangName="English" LangAlias="english" TextsFileName="strings.xml" />
+  <Loca LangName="Українська" LangAlias="ukrainian" TextsFileName="strings_ukr.xml"/>
   <Loca LangName="Deutsch" LangAlias="german" TextsFileName="strings_de.xml" />
   <Loca LangName="Свинособача" LangAlias="russian" TextsFileName="strings_ru.xml" />
   <Loca LangName="Français" LangAlias="french" TextsFileName="strings_fr.xml" />
@@ -11,7 +12,6 @@
   <Loca LangName="简体中文" LangAlias="schinese" TextsFileName="strings_cn.xml" bUseTTFonts="true" />
   <Loca LangName="日本語" LangAlias="japanese" TextsFileName="strings_jp.xml" bUseTTFonts="true" />
   <Loca LangName="한국어" LangAlias="koreana" TextsFileName="strings_kr.xml" bUseTTFonts="true" />
-  <Loca LangName="Українська" LangAlias="ukrainian" TextsFileName="strings_ukr.xml"/>
 </LocaList>
 
 <!-- 
