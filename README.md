@@ -3,6 +3,7 @@
 ###### Шрифти: Damglador
 ###### Все інше: Damglador
 ###### Озвучення: якщо хочете - пишіть мені :^)
+###### Посібник в Steam: https://steamcommunity.com/sharedfiles/filedetails/?id=2903743303
 ###### GitHub: https://github.com/Damglador/Door-Kickers-Action-Squad-UA
 ###### Google Drive: https://drive.google.com/file/d/1XPsVjl0Iaackjm_mS_8L2QbJ7F_xPPjs/view?usp=sharing
 ###### Discord: https://discord.gg/kpwP9d5X4u
