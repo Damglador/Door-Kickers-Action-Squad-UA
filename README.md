@@ -17,6 +17,7 @@
 
 ## Подяка за переклад
 Номер: 5375411200135544 (Переказ як на картку)
+Посилання: https://send.monobank.ua/jar/9fYeh5mu3Y
 
 <details>
 <summary>QR:</summary> 
