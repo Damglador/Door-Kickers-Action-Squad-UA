@@ -14,3 +14,14 @@
 або натиснувши по ярлику гри і в властивостях має бути шлях до exe файлу, а де exe там і media.
 
 Після заміни файлів - заходите в гру і в Options - More options - Language і там буде українська
+
+## Подяка за переклад
+Номер: 5375411200135544 (Переказ як на картку)
+
+Посилання: https://send.monobank.ua/jar/9fYeh5mu3Y
+
+<details>
+<summary>QR:</summary> 
+
+[![QR](https://i.imgur.com/by6E4OP.png)](https://i.imgur.com/by6E4OP.png)
+</details>
